@@ -51,7 +51,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=treeman
-  license: GPL-2
+  license: GPL-2.0-only
   summary: S4 class and methods for intuitive and efficient phylogenetic tree manipulation.
   license_family: GPL2
   license_file: {{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2
